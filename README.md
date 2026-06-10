@@ -1,33 +1,13 @@
-# Customer Churn Prediction Using Machine Learning
+# Customer Churn Prediction
 
-## Overview
-This project predicts whether a telecom customer is likely to churn using machine learning techniques.
-
-## Dataset
-Telco Customer Churn Dataset
+This project predicts whether a telecom customer is likely to churn or stay using a Random Forest Classifier.
 
 ## Technologies Used
 - Python
 - Pandas
-- NumPy
-- Matplotlib
 - Scikit-learn
+- Streamlit
+- Joblib
 
-## Model
+## Model Used
 Random Forest Classifier
-
-## Results
-- Accuracy: 78.46%
-
-## Key Features
-- TotalCharges
-- MonthlyCharges
-- tenure
-- Contract
-- OnlineSecurity
-- TechSupport
-
-## Author
-Pranava Shri CG
-B.Tech Artificial Intelligence and Data Science
-Jansons Institute of Technology
